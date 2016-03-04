@@ -1,11 +1,5 @@
 package Javahomework3.cn.epam.javahomework3;
 
-public class Calculator {
-
-}
-
-
-package cn.epam.demo;
 
 public class Calculator {
 	
